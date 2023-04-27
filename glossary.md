@@ -133,3 +133,5 @@ Biz, ingilis terminlərinin qısaldılmalarının şəkilçilərini terminin ing
 | Web | Veb |
 | wrapped component | əhatə olan komponent |
 | native | nativ |
+| markup | markup |
+
